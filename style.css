@@ -37,7 +37,7 @@ body{
     border-top-right-radius: 10px;
 }
 .card__title { 
-    font-size: 1.5rem; 
+    font-size: 2rem; 
     font-weight: 700; 
     color: var(--dark-blue); 
     font-family: 'Fraunces', serif;
@@ -67,7 +67,7 @@ body{
     gap: 1rem;
 }
 .card__new-price { 
-    font-size: 1.5rem; 
+    font-size: 1.8rem; 
     font-weight: 700; 
     color: var(--primary-color); 
     font-family: 'Fraunces', serif;
