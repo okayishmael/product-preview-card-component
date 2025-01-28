@@ -44,7 +44,7 @@ body{
 }
 .card__description { 
     line-height: 1.5;
-    font-size: 0.875rem; 
+    font-size: 0.9rem; 
     font-weight: 400; 
     color: var(--dark-grayish-blue); 
     font-family: 'Montserrat', sans-serif;
